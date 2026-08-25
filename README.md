@@ -1,2 +1,62 @@
-# microsoft-365-admin-centre-lab
-Microsoft 365 Admin Centre lab documenting user management, password resets, licence assignment, groups, shared mailbox basics, and IT Support workflows.
+# Microsoft 365 Admin Centre Lab
+
+## Project Overview
+
+This repository documents a hands-on Microsoft 365 Admin Centre lab focused on entry-level IT Support and Service Desk tasks.
+
+The purpose of this project is to practise common Microsoft 365 administration workflows, including user management, password resets, licence assignment, sign-in management, groups, mailbox basics, and support documentation.
+
+This lab is designed to show practical understanding of how Microsoft 365 is used in workplace IT support environments.
+
+## Lab Environment
+
+| Component | Details |
+|---|---|
+| Platform | Microsoft 365 Admin Centre |
+| Lab Type | IT Support / Microsoft 365 Administration |
+| Focus Areas | User accounts, passwords, licences, groups, mailbox basics, support documentation |
+| Documentation | GitHub README, lab notes, screenshots, sample tickets |
+
+## Completed Labs
+
+| Lab | Topic | Status |
+|---|---|---|
+| Lab 01 | Microsoft 365 Admin Centre Setup | Not Started |
+| Lab 02 | User Management | Not Started |
+| Lab 03 | Password Reset and Sign-in Management | Not Started |
+| Lab 04 | Groups and Access Management | Not Started |
+| Lab 05 | Mailbox and Shared Mailbox Basics | Not Started |
+| Lab 06 | Microsoft 365 Support Scenarios and Final Documentation | Not Started |
+
+## Lab Notes
+
+Lab notes will be added during the project.
+
+## Sample Tickets
+
+Sample Microsoft 365 support tickets will be added during the project.
+
+## Screenshots
+
+Screenshots will be added during the project.
+
+## Workflow Documentation
+
+Workflow documentation will be added during the project.
+
+## Skills Practised
+
+- Microsoft 365 Admin Centre
+- User account management
+- Password resets
+- Sign-in management
+- Licence assignment
+- Group management
+- Mailbox administration basics
+- Service desk documentation
+- IT Support workflows
+- Technical documentation
+
+## What I Learned
+
+This section will be updated as the lab progresses.
