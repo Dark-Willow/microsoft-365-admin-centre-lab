@@ -22,7 +22,7 @@ This lab is designed to show practical understanding of how Microsoft 365 is use
 | Lab | Topic | Status |
 |---|---|---|
 | Lab 01 | Microsoft 365 Admin Centre Setup | Complete |
-| Lab 02 | User Management | Not Started |
+| Lab 02 | User Management | Compete |
 | Lab 03 | Password Reset and Sign-in Management | Not Started |
 | Lab 04 | Groups and Access Management | Not Started |
 | Lab 05 | Mailbox and Shared Mailbox Basics | Not Started |
@@ -31,6 +31,7 @@ This lab is designed to show practical understanding of how Microsoft 365 is use
 ## Lab Notes
 
 - [Lab 01 — Microsoft 365 Admin Centre Setup](notes/lab-01-microsoft-365-admin-centre-setup.md)
+- [Lab 02 — User Management](notes/lab-02-user-management.md)
 
 ## Sample Tickets
 
@@ -43,6 +44,14 @@ Sample Microsoft 365 support tickets will be added during the project.
 ![Microsoft 365 Admin Centre Dashboard](screenshots/01-admin-centre-dashboard.png)
 
 ![Active Users Page](screenshots/02-active-users-page.png)
+
+### Lab 02 — User Management
+
+![Add User Licence Assignment](screenshots/03-add-user-license-assignment.png)
+
+![Users Created List](screenshots/04-users-created-list.png)
+
+![User Details Page](screenshots/05-user-details-page.png)
 
 ## Workflow Documentation
 
