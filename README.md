@@ -22,7 +22,7 @@ This lab is designed to show practical understanding of how Microsoft 365 is use
 | Lab | Topic | Status |
 |---|---|---|
 | Lab 01 | Microsoft 365 Admin Centre Setup | Complete |
-| Lab 02 | User Management | Compete |
+| Lab 02 | User Management | Complete |
 | Lab 03 | Password Reset and Sign-in Management | Not Started |
 | Lab 04 | Groups and Access Management | Not Started |
 | Lab 05 | Mailbox and Shared Mailbox Basics | Not Started |
