@@ -35,11 +35,16 @@ This lab is designed to show practical understanding of how Microsoft 365 is use
 - [Lab 03 — Password Reset and Sign-in Management](notes/lab-03-password-reset-and-sign-in-management.md)
 - [Lab 04 — Groups and Access Management](notes/lab-04-groups-and-access-management.md)
 - [Lab 05 — Mailbox and Shared Mailbox Basics](notes/lab-05-mailbox-and-shared-mailbox-basics.md)
+- [Lab 06 — Microsoft 365 Support Scenarios and Final Documentation](notes/lab-06-microsoft-365-support-scenarios-and-final-documentation.md)
 
 ## Sample Tickets
 
-Sample Microsoft 365 support tickets will be added during the project.
-
+- [Ticket 01 — New Starter Account Setup](sample-tickets/ticket-01-new-starter-account-setup.md)
+- [Ticket 02 — Password Reset](sample-tickets/ticket-02-password-reset.md)
+- [Ticket 03 — Block Sign-in for Security Review](sample-tickets/ticket-03-block-sign-in.md)
+- [Ticket 04 — Shared Mailbox Access](sample-tickets/ticket-04-shared-mailbox-access.md)
+- [Ticket 05 — Outlook Mailbox Issue](sample-tickets/ticket-05-outlook-mailbox-issue.md)
+  
 ## Screenshots
 
 ### Lab 01 — Microsoft 365 Admin Centre Setup
@@ -86,7 +91,7 @@ Sample Microsoft 365 support tickets will be added during the project.
 
 ## Workflow Documentation
 
-Workflow documentation will be added during the project.
+- [Microsoft 365 User Support Workflow](workflow/microsoft-365-user-support-workflow.md)
 
 ## Skills Practised
 
@@ -103,4 +108,8 @@ Workflow documentation will be added during the project.
 
 ## What I Learned
 
-This section will be updated as the lab progresses.
+This project helped me understand how Microsoft 365 Admin Centre is used in workplace IT Support.
+
+I practised creating users, assigning licences, resetting passwords, blocking and unblocking sign-in, creating groups, adding users to groups, creating shared mailboxes, adding shared mailbox members, and reviewing user mail settings.
+
+I also documented Microsoft 365 support scenarios using sample tickets and a user support workflow.
