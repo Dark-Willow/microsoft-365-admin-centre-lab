@@ -23,7 +23,7 @@ This lab is designed to show practical understanding of how Microsoft 365 is use
 |---|---|---|
 | Lab 01 | Microsoft 365 Admin Centre Setup | Complete |
 | Lab 02 | User Management | Complete |
-| Lab 03 | Password Reset and Sign-in Management | Not Started |
+| Lab 03 | Password Reset and Sign-in Management | Complete |
 | Lab 04 | Groups and Access Management | Not Started |
 | Lab 05 | Mailbox and Shared Mailbox Basics | Not Started |
 | Lab 06 | Microsoft 365 Support Scenarios and Final Documentation | Not Started |
@@ -32,6 +32,7 @@ This lab is designed to show practical understanding of how Microsoft 365 is use
 
 - [Lab 01 — Microsoft 365 Admin Centre Setup](notes/lab-01-microsoft-365-admin-centre-setup.md)
 - [Lab 02 — User Management](notes/lab-02-user-management.md)
+- [Lab 03 — Password Reset and Sign-in Management](notes/lab-03-password-reset-and-sign-in-management.md)
 
 ## Sample Tickets
 
@@ -53,6 +54,13 @@ Sample Microsoft 365 support tickets will be added during the project.
 
 ![User Details Page](screenshots/05-user-details-page.png)
 
+### Lab 03 — Password Reset and Sign-in Management
+
+![Password Reset Confirmation](screenshots/06-password-reset-confirmation.png)
+
+![Block Sign-in Confirmation](screenshots/07-block-sign-in-confirmation.png)
+
+![Sign-in Unblocked](screenshots/08-sign-in-unblocked.png)
 ## Workflow Documentation
 
 Workflow documentation will be added during the project.
