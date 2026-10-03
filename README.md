@@ -34,6 +34,7 @@ This lab is designed to show practical understanding of how Microsoft 365 is use
 - [Lab 02 — User Management](notes/lab-02-user-management.md)
 - [Lab 03 — Password Reset and Sign-in Management](notes/lab-03-password-reset-and-sign-in-management.md)
 - [Lab 04 — Groups and Access Management](notes/lab-04-groups-and-access-management.md)
+- [Lab 05 — Mailbox and Shared Mailbox Basics](notes/lab-05-mailbox-and-shared-mailbox-basics.md)
 
 ## Sample Tickets
 
@@ -72,6 +73,16 @@ Sample Microsoft 365 support tickets will be added during the project.
 ![Security Group Created](screenshots/11-security-group-created.png)
 
 ![Finance Access Members](screenshots/12-finance-access-members.png)
+
+### Lab 05 — Mailbox and Shared Mailbox Basics
+
+![Shared Mailbox Created](screenshots/13-shared-mailbox-created.png)
+
+![Shared Mailbox Members](screenshots/14-shared-mailbox-members.png)
+
+![Shared Mailbox Details](screenshots/15-shared-mailbox-details.png)
+
+![User Mail Settings](screenshots/16-user-mail-settings.png)
 
 ## Workflow Documentation
 
