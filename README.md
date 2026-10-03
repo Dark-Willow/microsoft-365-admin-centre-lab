@@ -33,6 +33,7 @@ This lab is designed to show practical understanding of how Microsoft 365 is use
 - [Lab 01 — Microsoft 365 Admin Centre Setup](notes/lab-01-microsoft-365-admin-centre-setup.md)
 - [Lab 02 — User Management](notes/lab-02-user-management.md)
 - [Lab 03 — Password Reset and Sign-in Management](notes/lab-03-password-reset-and-sign-in-management.md)
+- [Lab 04 — Groups and Access Management](notes/lab-04-groups-and-access-management.md)
 
 ## Sample Tickets
 
@@ -61,6 +62,17 @@ Sample Microsoft 365 support tickets will be added during the project.
 ![Block Sign-in Confirmation](screenshots/07-block-sign-in-confirmation.png)
 
 ![Sign-in Unblocked](screenshots/08-sign-in-unblocked.png)
+
+### Lab 04 — Groups and Access Management
+
+![Microsoft 365 Group Created](screenshots/09-microsoft-365-group-created.png)
+
+![HR Team Members](screenshots/10-hr-team-members.png)
+
+![Security Group Created](screenshots/11-security-group-created.png)
+
+![Finance Access Members](screenshots/12-finance-access-members.png)
+
 ## Workflow Documentation
 
 Workflow documentation will be added during the project.
