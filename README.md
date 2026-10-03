@@ -25,7 +25,7 @@ This lab is designed to show practical understanding of how Microsoft 365 is use
 | Lab 02 | User Management | Complete |
 | Lab 03 | Password Reset and Sign-in Management | Complete |
 | Lab 04 | Groups and Access Management | Complete |
-| Lab 05 | Mailbox and Shared Mailbox Basics | Not Started |
+| Lab 05 | Mailbox and Shared Mailbox Basics | Complete |
 | Lab 06 | Microsoft 365 Support Scenarios and Final Documentation | Not Started |
 
 ## Lab Notes
